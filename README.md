@@ -52,3 +52,7 @@ yarn test
 **Package Dependency Manager:** Yarn
 
 **Deployment:** Vercel
+
+### Test Coverage Report Screenshot
+
+![Test Coverage](./screenshots/coverage.png)
